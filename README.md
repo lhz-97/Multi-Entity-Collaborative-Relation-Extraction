@@ -26,7 +26,7 @@
 
   After configure the file, you can run the following code for training.
 
-```
-bash runtrain.sh
-```
+  ```
+  bash runtrain.sh
+  ```
 
