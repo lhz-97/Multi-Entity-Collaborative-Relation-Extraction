@@ -24,7 +24,7 @@
 
   The parameters of the function `main` are set in `config.py`. You can modify the parameters in it to train different models. And the hyper parameters for the models are also stored in it.
 
-  After configure the file, you can run the following code for training.
+  After configure `config.py`, you can run the following code for training.
 
   ```
   bash runtrain.sh
