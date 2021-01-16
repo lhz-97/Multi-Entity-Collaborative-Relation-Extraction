@@ -7,7 +7,7 @@ use_gcn=True
 gcn_layers=3
 path='test'
 load_path='061719-gcn-cnn-layer3-wiki-1-1'
-batch_size=1
+batch_size=8
 
 re_model='cnn'  #pcnn、cnn、bert、att_bilstm
 ner_model='lstm'
