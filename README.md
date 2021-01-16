@@ -22,7 +22,7 @@
 
   **train**:
 
-  The parameters of the function `main` are set in `config.py`. You can modify the parameters in it to train different models. And the hyper parameters for the models are also stored in it.
+  The parameters of the model are set in `config.py`. You can modify the parameters in it to train different models. And the hyper parameters for the models are also stored in it.
 
   After configure `config.py`, you can run the following code for training.
 
