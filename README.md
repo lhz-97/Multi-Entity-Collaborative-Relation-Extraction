@@ -2,7 +2,7 @@
 
 - ## Dataset
 
-  We have done experiments on two data sets. ACE 2005 dataset needs License, and WIKIE has been uploaded to the dataset folder.You can run the following code to preprocess the dataset.
+  We have done experiments on two data sets. ACE 2005 dataset needs License, and WIKIE has been uploaded to the dataset folder. You can run the following code to preprocess the dataset.
 
   ```
   python process_dataset.py
