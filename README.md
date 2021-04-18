@@ -36,9 +36,8 @@
 
 - ### Influence of GCNs Layers
 
-<center> <img src="/figure/table1.png" alt="table1.png" width="60%" height="60%" /> </center>
 
-We try different layers of GCNs. As shown in Table 1, for the ACE05 data set, one layer GCNs will be slightly better, which is related to the density of the     relationship in the sentence. For the WIKIE, due to the high relationship density, it is better to use the three-layer GCNs. This verifies the correctness of our model using GCNs to interact with entities and relationships.
+We try different layers of GCNs. For the ACE05 data set, one layer GCNs will be slightly better, which is related to the density of the     relationship in the sentence. For the WIKIE, due to the high relationship density, it is better to use the three-layer GCNs. This verifies the correctness of our model using GCNs to interact with entities and relationships.
 
 - ### Influence of Different REs on NER
 
